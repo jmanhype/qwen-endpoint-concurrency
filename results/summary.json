@@ -1,0 +1,50 @@
+{
+  "1": {
+    "requests": 8,
+    "ok": 8,
+    "error_rate": 0.0,
+    "p50_latency_s": 8.026,
+    "p95_latency_s": 9.623,
+    "mean_latency_s": 8.212,
+    "mean_completion_tokens": 245.0,
+    "statuses": [
+      200
+    ]
+  },
+  "2": {
+    "requests": 8,
+    "ok": 8,
+    "error_rate": 0.0,
+    "p50_latency_s": 8.773,
+    "p95_latency_s": 9.23,
+    "mean_latency_s": 8.599,
+    "mean_completion_tokens": 251.0,
+    "statuses": [
+      200
+    ]
+  },
+  "4": {
+    "requests": 8,
+    "ok": 8,
+    "error_rate": 0.0,
+    "p50_latency_s": 8.67,
+    "p95_latency_s": 9.696,
+    "mean_latency_s": 8.549,
+    "mean_completion_tokens": 249.4,
+    "statuses": [
+      200
+    ]
+  },
+  "8": {
+    "requests": 8,
+    "ok": 8,
+    "error_rate": 0.0,
+    "p50_latency_s": 7.906,
+    "p95_latency_s": 9.608,
+    "mean_latency_s": 8.088,
+    "mean_completion_tokens": 235.2,
+    "statuses": [
+      200
+    ]
+  }
+}
